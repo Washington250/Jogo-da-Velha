@@ -26,6 +26,13 @@ button{
     cursor: pointer;
 }
 
+.button-container {
+    display: inline-block;
+    margin-right: 8px;
+  }
+  
+  
+
 @media (max-width: 25%){
 .quadrado{
     width: 2rem !important;
