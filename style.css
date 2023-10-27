@@ -26,7 +26,7 @@ button{
     cursor: pointer;
 }
 
-@media (max-width: 599px){
+@media (max-width: 25%){
 .quadrado{
     width: 2rem !important;
     padding: 1,5rem !important;
